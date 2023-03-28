@@ -8,6 +8,8 @@ metadata:
     - java
     - react
     - website
+   description: E-commerce website
+   sampletesttag: test tag
 spec:
   type: service
   lifecycle: experimental
