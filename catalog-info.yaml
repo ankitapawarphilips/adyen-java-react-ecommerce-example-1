@@ -2,14 +2,16 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: adyen-java-react-ecommerce-example-1
+  description: E-commerce website
+  sampletesttag: test tag
   annotations:
     github.com/project-slug: ankitapawarphilips/adyen-java-react-ecommerce-example-1
   tags:
     - java
     - react
     - website
-  description: E-commerce website
-  sampletesttag: test tag
+  
+  
 spec:
   type: service
   lifecycle: experimental
