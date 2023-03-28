@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: ankitapawarphilips/adyen-java-react-ecommerce-example-1
 spec:
-  type: other
-  lifecycle: unknown
-  owner: guests
+  type: website
+  lifecycle: experimental
+  owner: ankitapawarphilips
