@@ -11,6 +11,8 @@ public class PasswordChangeDTO {
         // Empty constructor needed for Jackson.
     }
 
+
+    
     public PasswordChangeDTO(String currentPassword, String newPassword) {
         this.currentPassword = currentPassword;
         this.newPassword = newPassword;
