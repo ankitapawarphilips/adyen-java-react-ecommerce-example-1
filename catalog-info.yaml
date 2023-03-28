@@ -10,8 +10,6 @@ metadata:
     - java
     - react
     - website
-  
-  
 spec:
   type: service
   lifecycle: experimental
