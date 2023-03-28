@@ -3,7 +3,6 @@ kind: Component
 metadata:
   name: adyen-java-react-ecommerce-example-1
   description: E-commerce website
-  sampletesttag: test tag
   annotations:
     github.com/project-slug: ankitapawarphilips/adyen-java-react-ecommerce-example-1
   tags:
