@@ -4,6 +4,10 @@ metadata:
   name: adyen-java-react-ecommerce-example-1
   annotations:
     github.com/project-slug: ankitapawarphilips/adyen-java-react-ecommerce-example-1
+  tags:
+    - java
+    - react
+    - website
 spec:
   type: service
   lifecycle: experimental
